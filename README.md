@@ -8,6 +8,32 @@ Electrocardiogram (ECG) signals are time-series biomedical signals.
 Detecting R-peaks is important for heart rate analysis and medical diagnosis.
 
 In this project, an LSTM-based deep learning model is trained to learn temporal patterns in ECG signals and detect R-peak positions.
+##  Project Objective
+
+The objective of this project is to develop a deep learning model for detecting R-peaks in ECG signals using LSTM (Long Short-Term Memory) networks.
+
+ECG signals are time-series biomedical signals, and accurate detection of R-peaks is essential for heart rate calculation and cardiac analysis.
+
+The project aims to train an LSTM model that can learn temporal patterns in ECG signals and correctly identify peak positions.
+
+##  Problem Statement
+
+Manual detection of R-peaks in ECG signals is time-consuming and error-prone.
+
+Traditional signal processing methods may fail in noisy conditions.
+
+Therefore, a deep learning approach using LSTM is implemented to automatically detect peaks with high accuracy.
+
+##  Applications
+
+- Heart rate monitoring
+- ECG signal analysis
+- Biomedical signal processing
+- Arrhythmia detection
+- Healthcare AI systems
+  
+
+
 
 ##  Softwares Used
 
