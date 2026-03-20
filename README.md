@@ -49,6 +49,10 @@ Therefore, a deep learning approach using LSTM is implemented to automatically d
 - wfdb
 - sklearn
 
+ ## Dataset
+
+MIT-BIH ECG dataset was used for training and testing the model.
+
 ##  Model Used
 
 - LSTM (Long Short-Term Memory)
