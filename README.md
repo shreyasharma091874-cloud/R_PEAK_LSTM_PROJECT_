@@ -33,8 +33,6 @@ Therefore, a deep learning approach using LSTM is implemented to automatically d
 - Healthcare AI systems
   
 
-
-
 ##  Softwares Used
 
 - Python 3.10+
@@ -82,8 +80,35 @@ The model successfully learns temporal patterns in ECG signals.
 
 - `lstm_r_peak.ipynb` → Main notebook
 - `lstm_model.pth` → Saved trained model
+  
+##  Future Work
 
-##  Author
+The current model performs well on the available dataset, but further improvements can be made.
+
+Future work may include:
+
+- Using larger ECG datasets
+- Trying advanced models such as CNN + LSTM
+- Improving noise removal techniques
+- Real-time ECG peak detection
+- Deploying the model in healthcare applications
+  
+ ##  Limitations
+
+- Model trained on limited dataset
+- Performance may decrease on very noisy signals
+- Requires preprocessing before prediction
+- Not tested on real-time ECG devices
+
+##  Conclusion
+
+An LSTM-based model was successfully trained to detect R-peaks in ECG signals.
+
+The model achieved high accuracy and correctly identified peak positions in the signal.
+
+This project demonstrates that deep learning methods are effective for time-series biomedical signal analysis.
+ 
+ ##  Author
 
 Shreya Sharma  
 B.Tech Project – ECG Signal Analysis using LSTM
