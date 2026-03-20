@@ -9,14 +9,21 @@ Detecting R-peaks is important for heart rate analysis and medical diagnosis.
 
 In this project, an LSTM-based deep learning model is trained to learn temporal patterns in ECG signals and detect R-peak positions.
 
-##  Technologies Used
+## 💻 Softwares Used
 
-- Python
-- PyTorch
-- NumPy
-- Matplotlib
-- WFDB
+- Python 3.10+
+- VS Code
 - Jupyter Notebook
+- Git
+- GitHub
+
+## 📦 Libraries Used
+
+- torch (PyTorch)
+- numpy
+- matplotlib
+- wfdb
+- sklearn
 
 ##  Model Used
 
