@@ -2,14 +2,14 @@
 
 This project implements R-peak detection in ECG signals using a Long Short-Term Memory (LSTM) neural network.
 
-## 📌 Project Description
+## Project Description
 
 Electrocardiogram (ECG) signals are time-series biomedical signals.  
 Detecting R-peaks is important for heart rate analysis and medical diagnosis.
 
 In this project, an LSTM-based deep learning model is trained to learn temporal patterns in ECG signals and detect R-peak positions.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python
 - PyTorch
@@ -18,13 +18,13 @@ In this project, an LSTM-based deep learning model is trained to learn temporal 
 - WFDB
 - Jupyter Notebook
 
-## 🧠 Model Used
+##  Model Used
 
 - LSTM (Long Short-Term Memory)
 - Binary classification for peak detection
 - Threshold-based peak extraction
 
-## 📊 Steps Performed
+##  Steps Performed
 
 1. Load ECG dataset
 2. Preprocess signal
@@ -37,7 +37,7 @@ In this project, an LSTM-based deep learning model is trained to learn temporal 
 9. Zoomed peak verification
 10. Save trained model
 
-## 📈 Results
+##  Results
 
 - Train Accuracy ≈ 0.99
 - Test Accuracy ≈ 0.99
@@ -45,12 +45,12 @@ In this project, an LSTM-based deep learning model is trained to learn temporal 
 
 The model successfully learns temporal patterns in ECG signals.
 
-## 💾 Files in this repo
+##  Files in this repo
 
 - `lstm_r_peak.ipynb` → Main notebook
 - `lstm_model.pth` → Saved trained model
 
-## 🎓 Author
+##  Author
 
 Shreya Sharma  
 B.Tech Project – ECG Signal Analysis using LSTM
